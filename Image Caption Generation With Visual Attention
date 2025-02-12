@@ -1,0 +1,1 @@
+Under this project, I developed a CNN (Resnet) based encoder architecture and GRU(Gated Recurrent Unit) with Luang Attention based decoder for generating image caption generator. 
